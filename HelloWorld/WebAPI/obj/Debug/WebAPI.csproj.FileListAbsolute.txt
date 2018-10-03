@@ -1,0 +1,16 @@
+C:\Users\rekha42001\source\repos\HelloWorld\WebAPI\bin\Debug\WebAPI.exe.config
+C:\Users\rekha42001\source\repos\HelloWorld\WebAPI\bin\Debug\WebAPI.exe
+C:\Users\rekha42001\source\repos\HelloWorld\WebAPI\bin\Debug\WebAPI.pdb
+C:\Users\rekha42001\source\repos\HelloWorld\WebAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rekha42001\source\repos\HelloWorld\WebAPI\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\rekha42001\source\repos\HelloWorld\WebAPI\bin\Debug\System.Web.Http.dll
+C:\Users\rekha42001\source\repos\HelloWorld\WebAPI\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\rekha42001\source\repos\HelloWorld\WebAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rekha42001\source\repos\HelloWorld\WebAPI\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\rekha42001\source\repos\HelloWorld\WebAPI\bin\Debug\System.Web.Http.xml
+C:\Users\rekha42001\source\repos\HelloWorld\WebAPI\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\rekha42001\source\repos\HelloWorld\WebAPI\obj\Debug\WebAPI.csprojAssemblyReference.cache
+C:\Users\rekha42001\source\repos\HelloWorld\WebAPI\obj\Debug\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\rekha42001\source\repos\HelloWorld\WebAPI\obj\Debug\WebAPI.csproj.CopyComplete
+C:\Users\rekha42001\source\repos\HelloWorld\WebAPI\obj\Debug\WebAPI.exe
+C:\Users\rekha42001\source\repos\HelloWorld\WebAPI\obj\Debug\WebAPI.pdb

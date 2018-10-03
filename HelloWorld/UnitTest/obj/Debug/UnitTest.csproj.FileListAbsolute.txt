@@ -1,0 +1,6 @@
+C:\Users\rekha42001\source\repos\HelloWorld\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\rekha42001\source\repos\HelloWorld\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\rekha42001\source\repos\HelloWorld\UnitTest\obj\Debug\UnitTest.csprojAssemblyReference.cache
+C:\Users\rekha42001\source\repos\HelloWorld\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\rekha42001\source\repos\HelloWorld\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\rekha42001\source\repos\HelloWorld\UnitTest\obj\Debug\UnitTest.pdb

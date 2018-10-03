@@ -1,0 +1,6 @@
+C:\Users\rekha42001\source\repos\HelloWorld\HelloWorldController1\bin\Debug\HelloWorldController1.dll.config
+C:\Users\rekha42001\source\repos\HelloWorld\HelloWorldController1\bin\Debug\HelloWorldController1.dll
+C:\Users\rekha42001\source\repos\HelloWorld\HelloWorldController1\bin\Debug\HelloWorldController1.pdb
+C:\Users\rekha42001\source\repos\HelloWorld\HelloWorldController1\obj\Debug\HelloWorldController1.csproj.CoreCompileInputs.cache
+C:\Users\rekha42001\source\repos\HelloWorld\HelloWorldController1\obj\Debug\HelloWorldController1.dll
+C:\Users\rekha42001\source\repos\HelloWorld\HelloWorldController1\obj\Debug\HelloWorldController1.pdb
