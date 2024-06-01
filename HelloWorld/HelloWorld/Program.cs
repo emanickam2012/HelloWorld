@@ -41,7 +41,6 @@ namespace HelloWorld
                         GreetingModel dataReceived = new GreetingModel();
                         dataReceived = JsonConvert.DeserializeObject<GreetingModel>(response.Content);
                         Console.WriteLine(dataReceived.greetingMessage);
-
                         Console.Read();
 
                     }
